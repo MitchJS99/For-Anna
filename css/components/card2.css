@@ -1,0 +1,21 @@
+.card2 {
+  	 display: flex;
+ 	 align-items: center;
+ 	 justify-content: space-between;
+	 padding: 20px;
+	 box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	 margin: 10px;
+	 text-align: justify;
+
+}
+.card2 audio {
+	width: 200px;
+}
+
+.card2 img {
+  width: 1050px;
+  padding-right: 50px;
+}
+.card2 h3 {
+  flex-grow: 1;
+  padding-left: 20px;
