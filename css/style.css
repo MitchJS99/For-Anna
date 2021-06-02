@@ -8,6 +8,7 @@
 @import url("components/galeria.css");
 @import url("components/tekst.css");
 @import url("components/piosenki.css");
+@import url("components/card2.css");
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
